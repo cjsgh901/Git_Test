@@ -12,7 +12,7 @@
 		<tbody>
 			<tr>
 				<td>
-					<label>¾È³ç</label>
+					<label>¾È³ç!!</label>
 				</td>
 			</tr>
 		</tbody>
